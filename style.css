@@ -1,0 +1,48 @@
+body {
+    font: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+main{
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+
+section{
+    padding: 20px;
+    flex: 1 1 300px;
+    border: 1px solid black;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 20px;
+}
+
+.slack-profile {
+    text-align: left;
+    margin: 20px;
+}
+
+.slack-profile h1{
+    font-size: 32px;
+}
+
+.slack-profile {
+    text-align: center;
+    margin: 20px;
+}
+
+
+.information {
+    text-align: left;
+    margin: 20px;
+}
+
+.information p{
+    font-size: 20px;
+}
